@@ -1,0 +1,286 @@
+J-2 inkomen	J-1 inkomen	J0 inkomen	J0 IVT	Richting J0 (vs J-1)	Melding	Afhandeling / gevolg	J+1 IVT	J+2 IVT	Opmerking
+< 6.307	< 6.307	< 6.307	1.402 (max)				1.402 (max)	1.402 -> 1.139	binnen band
+< 6.307	< 6.307	< 6.307	1.402 (max)	daling <20%			1.402 (max)	1.402 -> 1.139	binnen band
+< 6.307	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.402 -> 1.139	binnen band
+< 6.307	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.402 -> 1.139	meldingsplicht niet nageleefd | binnen band
+< 6.307	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	
+< 6.307	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd
+< 6.307	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+< 6.307	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+< 6.307	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+< 6.307	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+< 6.307	6.307 - 9.461	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.402 (max)				1.402 (max)	1.139 -> 942	binnen band
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.402 (max)	daling <20%			1.402 (max)	1.139 -> 942	binnen band
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	binnen band
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd | binnen band
+< 6.307	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+< 6.307	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+< 6.307	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+< 6.307	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+< 6.307	9.461 - 20.763	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+< 6.307	9.461 - 20.763	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+< 6.307	9.461 - 20.763	9.461 - 20.763	1.402 (max)				1.402 (max)	942 -> 0	binnen band
+< 6.307	9.461 - 20.763	9.461 - 20.763	1.402 (max)	daling <20%			1.402 (max)	942 -> 0	binnen band
+< 6.307	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	binnen band
+< 6.307	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd | binnen band
+< 6.307	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+< 6.307	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+< 6.307	20.763 - 27.060	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+< 6.307	20.763 - 27.060	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+< 6.307	20.763 - 27.060	9.461 - 20.763	1.402 (max)	daling			1.402 (max)	942 -> 0	
+< 6.307	20.763 - 27.060	20.763 - 27.060	1.402 (max)				1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+< 6.307	20.763 - 27.060	20.763 - 27.060	1.402 (max)	daling <20%			1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+< 6.307	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+< 6.307	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+< 6.307	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+< 6.307	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+< 6.307	> 27.060	< 6.307	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.402 -> 1.139	
+< 6.307	> 27.060	< 6.307	1.402 (max)	daling	niet		afbouw? -> FOD	1.402 -> 1.139	
+< 6.307	> 27.060	6.307 - 9.461	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.139 -> 942	
+< 6.307	> 27.060	6.307 - 9.461	1.402 (max)	daling	niet		afbouw? -> FOD	1.139 -> 942	
+< 6.307	> 27.060	9.461 - 20.763	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	942 -> 0	
+< 6.307	> 27.060	9.461 - 20.763	1.402 (max)	daling	niet		afbouw? -> FOD	942 -> 0	
+< 6.307	> 27.060	20.763 - 27.060	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	> 27.060	20.763 - 27.060	1.402 (max)	daling	niet		afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+< 6.307	> 27.060	> 27.060	1.402 (max)				afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+< 6.307	> 27.060	> 27.060	1.402 (max)	daling <20%	wel	op aanvraag herrekend	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+< 6.307	> 27.060	> 27.060	1.402 (max)	daling <20%	niet		afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+< 6.307	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+< 6.307	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	afbouw? -> FOD	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu | binnen band
+6.307 - 9.461	< 6.307	< 6.307	1.402 (max)				1.402 (max)	1.402 -> 1.139	binnen band
+6.307 - 9.461	< 6.307	< 6.307	1.402 (max)	daling <20%			1.402 (max)	1.402 -> 1.139	binnen band
+6.307 - 9.461	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.402 -> 1.139	binnen band
+6.307 - 9.461	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.402 -> 1.139	meldingsplicht niet nageleefd | binnen band
+6.307 - 9.461	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	
+6.307 - 9.461	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd
+6.307 - 9.461	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+6.307 - 9.461	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+6.307 - 9.461	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+6.307 - 9.461	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+6.307 - 9.461	6.307 - 9.461	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.402 (max)				1.402 (max)	1.139 -> 942	binnen band
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.402 (max)	daling <20%			1.402 (max)	1.139 -> 942	binnen band
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	binnen band
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd | binnen band
+6.307 - 9.461	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+6.307 - 9.461	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+6.307 - 9.461	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+6.307 - 9.461	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+6.307 - 9.461	9.461 - 20.763	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+6.307 - 9.461	9.461 - 20.763	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	1.402 (max)				1.402 (max)	942 -> 0	binnen band
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	1.402 (max)	daling <20%			1.402 (max)	942 -> 0	binnen band
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	binnen band
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd | binnen band
+6.307 - 9.461	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+6.307 - 9.461	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+6.307 - 9.461	20.763 - 27.060	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+6.307 - 9.461	20.763 - 27.060	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+6.307 - 9.461	20.763 - 27.060	9.461 - 20.763	1.402 (max)	daling			1.402 (max)	942 -> 0	
+6.307 - 9.461	20.763 - 27.060	20.763 - 27.060	1.402 (max)				1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+6.307 - 9.461	20.763 - 27.060	20.763 - 27.060	1.402 (max)	daling <20%			1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+6.307 - 9.461	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+6.307 - 9.461	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+6.307 - 9.461	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+6.307 - 9.461	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+6.307 - 9.461	> 27.060	< 6.307	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.402 -> 1.139	
+6.307 - 9.461	> 27.060	< 6.307	1.402 (max)	daling	niet		afbouw? -> FOD	1.402 -> 1.139	
+6.307 - 9.461	> 27.060	6.307 - 9.461	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.139 -> 942	
+6.307 - 9.461	> 27.060	6.307 - 9.461	1.402 (max)	daling	niet		afbouw? -> FOD	1.139 -> 942	
+6.307 - 9.461	> 27.060	9.461 - 20.763	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	942 -> 0	
+6.307 - 9.461	> 27.060	9.461 - 20.763	1.402 (max)	daling	niet		afbouw? -> FOD	942 -> 0	
+6.307 - 9.461	> 27.060	20.763 - 27.060	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	> 27.060	20.763 - 27.060	1.402 (max)	daling	niet		afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+6.307 - 9.461	> 27.060	> 27.060	1.402 (max)				afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+6.307 - 9.461	> 27.060	> 27.060	1.402 (max)	daling <20%	wel	op aanvraag herrekend	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+6.307 - 9.461	> 27.060	> 27.060	1.402 (max)	daling <20%	niet		afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+6.307 - 9.461	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+6.307 - 9.461	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	afbouw? -> FOD	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu | binnen band
+9.461 - 20.763	< 6.307	< 6.307	1.402 (max)				1.402 (max)	1.402 -> 1.139	binnen band
+9.461 - 20.763	< 6.307	< 6.307	1.402 (max)	daling <20%			1.402 (max)	1.402 -> 1.139	binnen band
+9.461 - 20.763	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.402 -> 1.139	binnen band
+9.461 - 20.763	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.402 -> 1.139	meldingsplicht niet nageleefd | binnen band
+9.461 - 20.763	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	
+9.461 - 20.763	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd
+9.461 - 20.763	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+9.461 - 20.763	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+9.461 - 20.763	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+9.461 - 20.763	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+9.461 - 20.763	6.307 - 9.461	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.402 (max)				1.402 (max)	1.139 -> 942	binnen band
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.402 (max)	daling <20%			1.402 (max)	1.139 -> 942	binnen band
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	binnen band
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd | binnen band
+9.461 - 20.763	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+9.461 - 20.763	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+9.461 - 20.763	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+9.461 - 20.763	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+9.461 - 20.763	9.461 - 20.763	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+9.461 - 20.763	9.461 - 20.763	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	1.402 (max)				1.402 (max)	942 -> 0	binnen band
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	1.402 (max)	daling <20%			1.402 (max)	942 -> 0	binnen band
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	binnen band
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd | binnen band
+9.461 - 20.763	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+9.461 - 20.763	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+9.461 - 20.763	20.763 - 27.060	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+9.461 - 20.763	20.763 - 27.060	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+9.461 - 20.763	20.763 - 27.060	9.461 - 20.763	1.402 (max)	daling			1.402 (max)	942 -> 0	
+9.461 - 20.763	20.763 - 27.060	20.763 - 27.060	1.402 (max)				1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+9.461 - 20.763	20.763 - 27.060	20.763 - 27.060	1.402 (max)	daling <20%			1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+9.461 - 20.763	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+9.461 - 20.763	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+9.461 - 20.763	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+9.461 - 20.763	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+9.461 - 20.763	> 27.060	< 6.307	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.402 -> 1.139	
+9.461 - 20.763	> 27.060	< 6.307	1.402 (max)	daling	niet		afbouw? -> FOD	1.402 -> 1.139	
+9.461 - 20.763	> 27.060	6.307 - 9.461	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.139 -> 942	
+9.461 - 20.763	> 27.060	6.307 - 9.461	1.402 (max)	daling	niet		afbouw? -> FOD	1.139 -> 942	
+9.461 - 20.763	> 27.060	9.461 - 20.763	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	942 -> 0	
+9.461 - 20.763	> 27.060	9.461 - 20.763	1.402 (max)	daling	niet		afbouw? -> FOD	942 -> 0	
+9.461 - 20.763	> 27.060	20.763 - 27.060	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	> 27.060	20.763 - 27.060	1.402 (max)	daling	niet		afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+9.461 - 20.763	> 27.060	> 27.060	1.402 (max)				afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+9.461 - 20.763	> 27.060	> 27.060	1.402 (max)	daling <20%	wel	op aanvraag herrekend	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+9.461 - 20.763	> 27.060	> 27.060	1.402 (max)	daling <20%	niet		afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+9.461 - 20.763	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+9.461 - 20.763	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	afbouw? -> FOD	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu | binnen band
+20.763 - 27.060	< 6.307	< 6.307	1.402 (max)				1.402 (max)	1.402 -> 1.139	binnen band
+20.763 - 27.060	< 6.307	< 6.307	1.402 (max)	daling <20%			1.402 (max)	1.402 -> 1.139	binnen band
+20.763 - 27.060	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.402 -> 1.139	binnen band
+20.763 - 27.060	< 6.307	< 6.307	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.402 -> 1.139	meldingsplicht niet nageleefd | binnen band
+20.763 - 27.060	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	
+20.763 - 27.060	< 6.307	6.307 - 9.461	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd
+20.763 - 27.060	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+20.763 - 27.060	< 6.307	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+20.763 - 27.060	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	< 6.307	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+20.763 - 27.060	< 6.307	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+20.763 - 27.060	6.307 - 9.461	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+20.763 - 27.060	6.307 - 9.461	6.307 - 9.461	1.402 (max)				1.402 (max)	1.139 -> 942	binnen band
+20.763 - 27.060	6.307 - 9.461	6.307 - 9.461	1.402 (max)	daling <20%			1.402 (max)	1.139 -> 942	binnen band
+20.763 - 27.060	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	binnen band
+20.763 - 27.060	6.307 - 9.461	6.307 - 9.461	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd | binnen band
+20.763 - 27.060	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+20.763 - 27.060	6.307 - 9.461	9.461 - 20.763	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+20.763 - 27.060	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	6.307 - 9.461	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+20.763 - 27.060	6.307 - 9.461	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+20.763 - 27.060	9.461 - 20.763	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+20.763 - 27.060	9.461 - 20.763	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+20.763 - 27.060	9.461 - 20.763	9.461 - 20.763	1.402 (max)				1.402 (max)	942 -> 0	binnen band
+20.763 - 27.060	9.461 - 20.763	9.461 - 20.763	1.402 (max)	daling <20%			1.402 (max)	942 -> 0	binnen band
+20.763 - 27.060	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	binnen band
+20.763 - 27.060	9.461 - 20.763	9.461 - 20.763	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd | binnen band
+20.763 - 27.060	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	9.461 - 20.763	20.763 - 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+20.763 - 27.060	9.461 - 20.763	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+20.763 - 27.060	20.763 - 27.060	< 6.307	1.402 (max)	daling			1.402 (max)	1.402 -> 1.139	
+20.763 - 27.060	20.763 - 27.060	6.307 - 9.461	1.402 (max)	daling			1.402 (max)	1.139 -> 942	
+20.763 - 27.060	20.763 - 27.060	9.461 - 20.763	1.402 (max)	daling			1.402 (max)	942 -> 0	
+20.763 - 27.060	20.763 - 27.060	20.763 - 27.060	1.402 (max)				1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+20.763 - 27.060	20.763 - 27.060	20.763 - 27.060	1.402 (max)	daling <20%			1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+20.763 - 27.060	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+20.763 - 27.060	20.763 - 27.060	20.763 - 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+20.763 - 27.060	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+20.763 - 27.060	20.763 - 27.060	> 27.060	1.402 (max)	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+20.763 - 27.060	> 27.060	< 6.307	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.402 -> 1.139	
+20.763 - 27.060	> 27.060	< 6.307	1.402 (max)	daling	niet		afbouw? -> FOD	1.402 -> 1.139	
+20.763 - 27.060	> 27.060	6.307 - 9.461	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.139 -> 942	
+20.763 - 27.060	> 27.060	6.307 - 9.461	1.402 (max)	daling	niet		afbouw? -> FOD	1.139 -> 942	
+20.763 - 27.060	> 27.060	9.461 - 20.763	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	942 -> 0	
+20.763 - 27.060	> 27.060	9.461 - 20.763	1.402 (max)	daling	niet		afbouw? -> FOD	942 -> 0	
+20.763 - 27.060	> 27.060	20.763 - 27.060	1.402 (max)	daling	wel	op aanvraag herrekend	afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	> 27.060	20.763 - 27.060	1.402 (max)	daling	niet		afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+20.763 - 27.060	> 27.060	> 27.060	1.402 (max)				afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+20.763 - 27.060	> 27.060	> 27.060	1.402 (max)	daling <20%	wel	op aanvraag herrekend	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+20.763 - 27.060	> 27.060	> 27.060	1.402 (max)	daling <20%	niet		afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+20.763 - 27.060	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+20.763 - 27.060	> 27.060	> 27.060	1.402 (max)	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	afbouw? -> FOD	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu | binnen band
+> 27.060	< 6.307	< 6.307	afbouw? -> FOD				1.402 (max)	1.402 -> 1.139	binnen band
+> 27.060	< 6.307	< 6.307	afbouw? -> FOD	daling <20%	wel	op aanvraag herrekend	1.402 (max)	1.402 -> 1.139	binnen band
+> 27.060	< 6.307	< 6.307	afbouw? -> FOD	daling <20%	niet		1.402 (max)	1.402 -> 1.139	binnen band
+> 27.060	< 6.307	< 6.307	afbouw? -> FOD	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.402 -> 1.139	binnen band
+> 27.060	< 6.307	< 6.307	afbouw? -> FOD	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.402 -> 1.139	meldingsplicht niet nageleefd | binnen band
+> 27.060	< 6.307	6.307 - 9.461	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	
+> 27.060	< 6.307	6.307 - 9.461	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd
+> 27.060	< 6.307	9.461 - 20.763	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+> 27.060	< 6.307	9.461 - 20.763	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+> 27.060	< 6.307	20.763 - 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	< 6.307	20.763 - 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	< 6.307	> 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+> 27.060	< 6.307	> 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+> 27.060	6.307 - 9.461	< 6.307	afbouw? -> FOD	daling	wel	op aanvraag herrekend	1.402 (max)	1.402 -> 1.139	
+> 27.060	6.307 - 9.461	< 6.307	afbouw? -> FOD	daling	niet		1.402 (max)	1.402 -> 1.139	
+> 27.060	6.307 - 9.461	6.307 - 9.461	afbouw? -> FOD				1.402 (max)	1.139 -> 942	binnen band
+> 27.060	6.307 - 9.461	6.307 - 9.461	afbouw? -> FOD	daling <20%	wel	op aanvraag herrekend	1.402 (max)	1.139 -> 942	binnen band
+> 27.060	6.307 - 9.461	6.307 - 9.461	afbouw? -> FOD	daling <20%	niet		1.402 (max)	1.139 -> 942	binnen band
+> 27.060	6.307 - 9.461	6.307 - 9.461	afbouw? -> FOD	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	1.139 -> 942	binnen band
+> 27.060	6.307 - 9.461	6.307 - 9.461	afbouw? -> FOD	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	1.139 -> 942	meldingsplicht niet nageleefd | binnen band
+> 27.060	6.307 - 9.461	9.461 - 20.763	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	
+> 27.060	6.307 - 9.461	9.461 - 20.763	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd
+> 27.060	6.307 - 9.461	20.763 - 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	6.307 - 9.461	20.763 - 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	6.307 - 9.461	> 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+> 27.060	6.307 - 9.461	> 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+> 27.060	9.461 - 20.763	< 6.307	afbouw? -> FOD	daling	wel	op aanvraag herrekend	1.402 (max)	1.402 -> 1.139	
+> 27.060	9.461 - 20.763	< 6.307	afbouw? -> FOD	daling	niet		1.402 (max)	1.402 -> 1.139	
+> 27.060	9.461 - 20.763	6.307 - 9.461	afbouw? -> FOD	daling	wel	op aanvraag herrekend	1.402 (max)	1.139 -> 942	
+> 27.060	9.461 - 20.763	6.307 - 9.461	afbouw? -> FOD	daling	niet		1.402 (max)	1.139 -> 942	
+> 27.060	9.461 - 20.763	9.461 - 20.763	afbouw? -> FOD				1.402 (max)	942 -> 0	binnen band
+> 27.060	9.461 - 20.763	9.461 - 20.763	afbouw? -> FOD	daling <20%	wel	op aanvraag herrekend	1.402 (max)	942 -> 0	binnen band
+> 27.060	9.461 - 20.763	9.461 - 20.763	afbouw? -> FOD	daling <20%	niet		1.402 (max)	942 -> 0	binnen band
+> 27.060	9.461 - 20.763	9.461 - 20.763	afbouw? -> FOD	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	942 -> 0	binnen band
+> 27.060	9.461 - 20.763	9.461 - 20.763	afbouw? -> FOD	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	942 -> 0	meldingsplicht niet nageleefd | binnen band
+> 27.060	9.461 - 20.763	20.763 - 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	9.461 - 20.763	20.763 - 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	9.461 - 20.763	> 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+> 27.060	9.461 - 20.763	> 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+> 27.060	20.763 - 27.060	< 6.307	afbouw? -> FOD	daling	wel	op aanvraag herrekend	1.402 (max)	1.402 -> 1.139	
+> 27.060	20.763 - 27.060	< 6.307	afbouw? -> FOD	daling	niet		1.402 (max)	1.402 -> 1.139	
+> 27.060	20.763 - 27.060	6.307 - 9.461	afbouw? -> FOD	daling	wel	op aanvraag herrekend	1.402 (max)	1.139 -> 942	
+> 27.060	20.763 - 27.060	6.307 - 9.461	afbouw? -> FOD	daling	niet		1.402 (max)	1.139 -> 942	
+> 27.060	20.763 - 27.060	9.461 - 20.763	afbouw? -> FOD	daling	wel	op aanvraag herrekend	1.402 (max)	942 -> 0	
+> 27.060	20.763 - 27.060	9.461 - 20.763	afbouw? -> FOD	daling	niet		1.402 (max)	942 -> 0	
+> 27.060	20.763 - 27.060	20.763 - 27.060	afbouw? -> FOD				1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+> 27.060	20.763 - 27.060	20.763 - 27.060	afbouw? -> FOD	daling <20%	wel	op aanvraag herrekend	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+> 27.060	20.763 - 27.060	20.763 - 27.060	afbouw? -> FOD	daling <20%	niet		1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+> 27.060	20.763 - 27.060	20.763 - 27.060	afbouw? -> FOD	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0	DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+> 27.060	20.763 - 27.060	20.763 - 27.060	afbouw? -> FOD	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0	meldingsplicht niet nageleefd | DOUBLE WHAMMY-strook 20.763-27.060 | binnen band
+> 27.060	20.763 - 27.060	> 27.060	afbouw? -> FOD	stijging (>=20%)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	1.402 (max)	0? -> FOD	J0 > 27.060: gunst breekt nu
+> 27.060	20.763 - 27.060	> 27.060	afbouw? -> FOD	stijging (>=20%)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	1.402 (max)	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu
+> 27.060	> 27.060	< 6.307	afbouw? -> FOD	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.402 -> 1.139	
+> 27.060	> 27.060	< 6.307	afbouw? -> FOD	daling	niet		afbouw? -> FOD	1.402 -> 1.139	
+> 27.060	> 27.060	6.307 - 9.461	afbouw? -> FOD	daling	wel	op aanvraag herrekend	afbouw? -> FOD	1.139 -> 942	
+> 27.060	> 27.060	6.307 - 9.461	afbouw? -> FOD	daling	niet		afbouw? -> FOD	1.139 -> 942	
+> 27.060	> 27.060	9.461 - 20.763	afbouw? -> FOD	daling	wel	op aanvraag herrekend	afbouw? -> FOD	942 -> 0	
+> 27.060	> 27.060	9.461 - 20.763	afbouw? -> FOD	daling	niet		afbouw? -> FOD	942 -> 0	
+> 27.060	> 27.060	20.763 - 27.060	afbouw? -> FOD	daling	wel	op aanvraag herrekend	afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	> 27.060	20.763 - 27.060	afbouw? -> FOD	daling	niet		afbouw? -> FOD	0	DOUBLE WHAMMY-strook 20.763-27.060
+> 27.060	> 27.060	> 27.060	afbouw? -> FOD				afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+> 27.060	> 27.060	> 27.060	afbouw? -> FOD	daling <20%	wel	op aanvraag herrekend	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+> 27.060	> 27.060	> 27.060	afbouw? -> FOD	daling <20%	niet		afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+> 27.060	> 27.060	> 27.060	afbouw? -> FOD	stijging >=20% (binnen band)	WEL*	vrijgesteld tot 27.060; J+2 onder standaard	afbouw? -> FOD	0? -> FOD	J0 > 27.060: gunst breekt nu | binnen band
+> 27.060	> 27.060	> 27.060	afbouw? -> FOD	stijging >=20% (binnen band)	NIET*	IVT was correct max -> geen terugvordering; boete onzeker (FOD)	afbouw? -> FOD	0? -> FOD	meldingsplicht niet nageleefd | J0 > 27.060: gunst breekt nu | binnen band

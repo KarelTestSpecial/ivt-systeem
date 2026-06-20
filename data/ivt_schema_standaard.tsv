@@ -1,0 +1,177 @@
+J-2 inkomen	J-1 inkomen	J0 inkomen	J0 IVT	Richting J0 (vs J-1)	Melding	Afhandeling / gevolg	J+1 IVT	J+2 IVT	Opmerking	Comm. J0 IVT	Comm. J+1 IVT	Comm. J+2 IVT
+< 6.307	< 6.307	< 6.307	1.402 -> 1.139			IVT volgt N-2	1.402 -> 1.139	1.402 -> 1.139	binnen band			
+< 6.307	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	niet	geen verhoging	1.402 -> 1.139	1.402 -> 1.139	binnen band		geen verhoging	
+< 6.307	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	wel	op aanvraag herrekend (binnen band)	1.402 -> 1.139	1.402 -> 1.139	binnen band		binnen band	
+< 6.307	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.402 -> 1.139	1.402 -> 1.139	binnen band		o.b.v. J0	
+< 6.307	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.402 -> 1.139	risico | binnen band		onterecht hoog	via N-2 + terugvordering J+1
+< 6.307	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942			o.b.v. J0	
+< 6.307	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.139 -> 942	risico		onterecht hoog	via N-2 + terugvordering J+1
+< 6.307	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0			dode zone; o.b.v. J0	dode zone
+< 6.307	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	942 -> 0	risico		onterecht hoog	dode zone; via N-2 + terugvordering J+1
+< 6.307	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0			o.b.v. J0	
+< 6.307	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	0	risico		onterecht hoog	via N-2 + terugvordering J+1
+< 6.307	6.307 - 9.461	< 6.307	1.139 -> 942	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		versneld door J-1	o.b.v. J0	
+< 6.307	6.307 - 9.461	< 6.307	1.139 -> 942	daling	niet	geen verhoging; N-2 pas in J+2	1.139 -> 942	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.139 -> 942			IVT volgt N-2	1.139 -> 942	1.139 -> 942	binnen band	versneld door J-1		
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	niet	geen verhoging	1.139 -> 942	1.139 -> 942	binnen band	versneld door J-1	geen verhoging	
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	wel	op aanvraag herrekend (binnen band)	1.139 -> 942	1.139 -> 942	binnen band	versneld door J-1	binnen band	
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942	binnen band	versneld door J-1	o.b.v. J0	
+< 6.307	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	1.139 -> 942	risico | binnen band	versneld door J-1	onterecht hoog	via N-2 + terugvordering J+1
+< 6.307	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0		versneld door J-1	dode zone; o.b.v. J0	dode zone
+< 6.307	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	942 -> 0	risico	versneld door J-1	onterecht hoog	dode zone; via N-2 + terugvordering J+1
+< 6.307	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		versneld door J-1	o.b.v. J0	
+< 6.307	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	0	risico	versneld door J-1	onterecht hoog	via N-2 + terugvordering J+1
+< 6.307	9.461 - 20.763	< 6.307	942 -> 0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		dode zone; versneld door J-1	o.b.v. J0	
+< 6.307	9.461 - 20.763	< 6.307	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	dode zone; versneld door J-1	dode zone; geen verhoging	via N-2
+< 6.307	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		dode zone; versneld door J-1	o.b.v. J0	
+< 6.307	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	dode zone; versneld door J-1	dode zone; geen verhoging	via N-2
+< 6.307	9.461 - 20.763	9.461 - 20.763	942 -> 0			IVT volgt N-2	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone	dode zone
+< 6.307	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	niet	geen verhoging	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone; geen verhoging	dode zone
+< 6.307	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	wel	op aanvraag herrekend (binnen band)	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone; binnen band	dode zone
+< 6.307	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone; o.b.v. J0	dode zone
+< 6.307	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	942 -> 0	risico | binnen band	dode zone; versneld door J-1	dode zone; onterecht hoog	dode zone; via N-2 + terugvordering J+1
+< 6.307	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		dode zone; versneld door J-1	o.b.v. J0	
+< 6.307	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	0	risico	dode zone; versneld door J-1	dode zone; onterecht hoog	via N-2 + terugvordering J+1
+< 6.307	> 20.763	< 6.307	0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		versneld door J-1	o.b.v. J0	
+< 6.307	> 20.763	< 6.307	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+< 6.307	> 20.763	6.307 - 9.461	0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		versneld door J-1	o.b.v. J0	
+< 6.307	> 20.763	6.307 - 9.461	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+< 6.307	> 20.763	9.461 - 20.763	0	daling	wel	op aanvraag herrekend	942 -> 0	942 -> 0		versneld door J-1	dode zone; o.b.v. J0	dode zone
+< 6.307	> 20.763	9.461 - 20.763	0	daling	niet	geen verhoging; N-2 pas in J+2	0	942 -> 0	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	dode zone; via N-2
+< 6.307	> 20.763	> 20.763	0			IVT volgt N-2	0	0	binnen band	versneld door J-1		
+< 6.307	> 20.763	> 20.763	0	daling <20%	niet	geen verhoging	0	0	binnen band	versneld door J-1	geen verhoging	
+< 6.307	> 20.763	> 20.763	0	daling <20%	wel	op aanvraag herrekend (binnen band)	0	0	binnen band	versneld door J-1	binnen band	
+< 6.307	> 20.763	> 20.763	0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	0	0	binnen band	versneld door J-1	o.b.v. J0	
+< 6.307	> 20.763	> 20.763	0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	0	0	risico | binnen band	versneld door J-1	onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	< 6.307	< 6.307	1.402 -> 1.139			IVT volgt N-2	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 1.139 -> 942		
+6.307 - 9.461	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	niet	geen verhoging	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 1.139 -> 942	geen verhoging	
+6.307 - 9.461	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	wel	op aanvraag herrekend (binnen band)	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 1.139 -> 942	binnen band	
+6.307 - 9.461	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 1.139 -> 942	o.b.v. J0	
+6.307 - 9.461	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.402 -> 1.139	risico | binnen band	aangevraagd:; anders 1.139 -> 942	onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942		aangevraagd:; anders 1.139 -> 942	o.b.v. J0	
+6.307 - 9.461	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.139 -> 942	risico	aangevraagd:; anders 1.139 -> 942	onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0		aangevraagd:; anders 1.139 -> 942	dode zone; o.b.v. J0	dode zone
+6.307 - 9.461	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	942 -> 0	risico	aangevraagd:; anders 1.139 -> 942	onterecht hoog	dode zone; via N-2 + terugvordering J+1
+6.307 - 9.461	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		aangevraagd:; anders 1.139 -> 942	o.b.v. J0	
+6.307 - 9.461	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	0	risico	aangevraagd:; anders 1.139 -> 942	onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	6.307 - 9.461	< 6.307	1.139 -> 942	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139			o.b.v. J0	
+6.307 - 9.461	6.307 - 9.461	< 6.307	1.139 -> 942	daling	niet	geen verhoging; N-2 pas in J+2	1.139 -> 942	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in		geen verhoging	via N-2
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.139 -> 942			IVT volgt N-2	1.139 -> 942	1.139 -> 942	binnen band			
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	niet	geen verhoging	1.139 -> 942	1.139 -> 942	binnen band		geen verhoging	
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	wel	op aanvraag herrekend (binnen band)	1.139 -> 942	1.139 -> 942	binnen band		binnen band	
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942	binnen band		o.b.v. J0	
+6.307 - 9.461	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	1.139 -> 942	risico | binnen band		onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0			dode zone; o.b.v. J0	dode zone
+6.307 - 9.461	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	942 -> 0	risico		onterecht hoog	dode zone; via N-2 + terugvordering J+1
+6.307 - 9.461	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0			o.b.v. J0	
+6.307 - 9.461	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	0	risico		onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	9.461 - 20.763	< 6.307	942 -> 0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		dode zone; versneld door J-1	o.b.v. J0	
+6.307 - 9.461	9.461 - 20.763	< 6.307	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	dode zone; versneld door J-1	dode zone; geen verhoging	via N-2
+6.307 - 9.461	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		dode zone; versneld door J-1	o.b.v. J0	
+6.307 - 9.461	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	dode zone; versneld door J-1	dode zone; geen verhoging	via N-2
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	942 -> 0			IVT volgt N-2	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone	dode zone
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	niet	geen verhoging	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone; geen verhoging	dode zone
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	wel	op aanvraag herrekend (binnen band)	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone; binnen band	dode zone
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0	binnen band	dode zone; versneld door J-1	dode zone; o.b.v. J0	dode zone
+6.307 - 9.461	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	942 -> 0	risico | binnen band	dode zone; versneld door J-1	dode zone; onterecht hoog	dode zone; via N-2 + terugvordering J+1
+6.307 - 9.461	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		dode zone; versneld door J-1	o.b.v. J0	
+6.307 - 9.461	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	0	risico	dode zone; versneld door J-1	dode zone; onterecht hoog	via N-2 + terugvordering J+1
+6.307 - 9.461	> 20.763	< 6.307	0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		versneld door J-1	o.b.v. J0	
+6.307 - 9.461	> 20.763	< 6.307	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+6.307 - 9.461	> 20.763	6.307 - 9.461	0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		versneld door J-1	o.b.v. J0	
+6.307 - 9.461	> 20.763	6.307 - 9.461	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+6.307 - 9.461	> 20.763	9.461 - 20.763	0	daling	wel	op aanvraag herrekend	942 -> 0	942 -> 0		versneld door J-1	dode zone; o.b.v. J0	dode zone
+6.307 - 9.461	> 20.763	9.461 - 20.763	0	daling	niet	geen verhoging; N-2 pas in J+2	0	942 -> 0	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	dode zone; via N-2
+6.307 - 9.461	> 20.763	> 20.763	0			IVT volgt N-2	0	0	binnen band	versneld door J-1		
+6.307 - 9.461	> 20.763	> 20.763	0	daling <20%	niet	geen verhoging	0	0	binnen band	versneld door J-1	geen verhoging	
+6.307 - 9.461	> 20.763	> 20.763	0	daling <20%	wel	op aanvraag herrekend (binnen band)	0	0	binnen band	versneld door J-1	binnen band	
+6.307 - 9.461	> 20.763	> 20.763	0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	0	0	binnen band	versneld door J-1	o.b.v. J0	
+6.307 - 9.461	> 20.763	> 20.763	0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	0	0	risico | binnen band	versneld door J-1	onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	< 6.307	< 6.307	1.402 -> 1.139			IVT volgt N-2	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 942 -> 0 dode zone		
+9.461 - 20.763	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	niet	geen verhoging	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 942 -> 0 dode zone	geen verhoging	
+9.461 - 20.763	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	wel	op aanvraag herrekend (binnen band)	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 942 -> 0 dode zone	binnen band	
+9.461 - 20.763	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 942 -> 0 dode zone	o.b.v. J0	
+9.461 - 20.763	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.402 -> 1.139	risico | binnen band	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942		aangevraagd:; anders 942 -> 0 dode zone	o.b.v. J0	
+9.461 - 20.763	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.139 -> 942	risico	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0		aangevraagd:; anders 942 -> 0 dode zone	dode zone; o.b.v. J0	dode zone
+9.461 - 20.763	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	942 -> 0	risico	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	dode zone; via N-2 + terugvordering J+1
+9.461 - 20.763	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		aangevraagd:; anders 942 -> 0 dode zone	o.b.v. J0	
+9.461 - 20.763	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	0	risico	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	6.307 - 9.461	< 6.307	1.139 -> 942	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		aangevraagd:; anders 942 -> 0 dode zone	o.b.v. J0	
+9.461 - 20.763	6.307 - 9.461	< 6.307	1.139 -> 942	daling	niet	geen verhoging; N-2 pas in J+2	1.139 -> 942	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	aangevraagd:; anders 942 -> 0 dode zone	geen verhoging	via N-2
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942			IVT volgt N-2	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 942 -> 0 dode zone		
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	niet	geen verhoging	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 942 -> 0 dode zone	geen verhoging	
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	wel	op aanvraag herrekend (binnen band)	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 942 -> 0 dode zone	binnen band	
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 942 -> 0 dode zone	o.b.v. J0	
+9.461 - 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	1.139 -> 942	risico | binnen band	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0		aangevraagd:; anders 942 -> 0 dode zone	dode zone; o.b.v. J0	dode zone
+9.461 - 20.763	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	942 -> 0	risico	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	dode zone; via N-2 + terugvordering J+1
+9.461 - 20.763	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		aangevraagd:; anders 942 -> 0 dode zone	o.b.v. J0	
+9.461 - 20.763	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	0	risico	aangevraagd:; anders 942 -> 0 dode zone	onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	9.461 - 20.763	< 6.307	942 -> 0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		dode zone	o.b.v. J0	
+9.461 - 20.763	9.461 - 20.763	< 6.307	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	dode zone	dode zone; geen verhoging	via N-2
+9.461 - 20.763	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		dode zone	o.b.v. J0	
+9.461 - 20.763	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	dode zone	dode zone; geen verhoging	via N-2
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0			IVT volgt N-2	942 -> 0	942 -> 0	binnen band	dode zone	dode zone	dode zone
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	niet	geen verhoging	942 -> 0	942 -> 0	binnen band	dode zone	dode zone; geen verhoging	dode zone
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	wel	op aanvraag herrekend (binnen band)	942 -> 0	942 -> 0	binnen band	dode zone	dode zone; binnen band	dode zone
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0	binnen band	dode zone	dode zone; o.b.v. J0	dode zone
+9.461 - 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	942 -> 0	risico | binnen band	dode zone	dode zone; onterecht hoog	dode zone; via N-2 + terugvordering J+1
+9.461 - 20.763	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		dode zone	o.b.v. J0	
+9.461 - 20.763	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	0	risico	dode zone	dode zone; onterecht hoog	via N-2 + terugvordering J+1
+9.461 - 20.763	> 20.763	< 6.307	0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		versneld door J-1	o.b.v. J0	
+9.461 - 20.763	> 20.763	< 6.307	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+9.461 - 20.763	> 20.763	6.307 - 9.461	0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		versneld door J-1	o.b.v. J0	
+9.461 - 20.763	> 20.763	6.307 - 9.461	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	via N-2
+9.461 - 20.763	> 20.763	9.461 - 20.763	0	daling	wel	op aanvraag herrekend	942 -> 0	942 -> 0		versneld door J-1	dode zone; o.b.v. J0	dode zone
+9.461 - 20.763	> 20.763	9.461 - 20.763	0	daling	niet	geen verhoging; N-2 pas in J+2	0	942 -> 0	J+2: N-2 haalt J0 alsnog in	versneld door J-1	geen verhoging	dode zone; via N-2
+9.461 - 20.763	> 20.763	> 20.763	0			IVT volgt N-2	0	0	binnen band	versneld door J-1		
+9.461 - 20.763	> 20.763	> 20.763	0	daling <20%	niet	geen verhoging	0	0	binnen band	versneld door J-1	geen verhoging	
+9.461 - 20.763	> 20.763	> 20.763	0	daling <20%	wel	op aanvraag herrekend (binnen band)	0	0	binnen band	versneld door J-1	binnen band	
+9.461 - 20.763	> 20.763	> 20.763	0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	0	0	binnen band	versneld door J-1	o.b.v. J0	
+9.461 - 20.763	> 20.763	> 20.763	0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	0	0	risico | binnen band	versneld door J-1	onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	< 6.307	< 6.307	1.402 -> 1.139			IVT volgt N-2	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 0		
+> 20.763	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	niet	geen verhoging	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 0	geen verhoging	
+> 20.763	< 6.307	< 6.307	1.402 -> 1.139	daling <20%	wel	op aanvraag herrekend (binnen band)	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 0	binnen band	
+> 20.763	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.402 -> 1.139	1.402 -> 1.139	binnen band	aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	< 6.307	< 6.307	1.402 -> 1.139	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.402 -> 1.139	risico | binnen band	aangevraagd:; anders 0	onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942		aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	< 6.307	6.307 - 9.461	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	1.139 -> 942	risico	aangevraagd:; anders 0	onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0		aangevraagd:; anders 0	dode zone; o.b.v. J0	dode zone
+> 20.763	< 6.307	9.461 - 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	942 -> 0	risico	aangevraagd:; anders 0	onterecht hoog	dode zone; via N-2 + terugvordering J+1
+> 20.763	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	< 6.307	> 20.763	1.402 -> 1.139	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.402 -> 1.139	0	risico	aangevraagd:; anders 0	onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	6.307 - 9.461	< 6.307	1.139 -> 942	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	6.307 - 9.461	< 6.307	1.139 -> 942	daling	niet	geen verhoging; N-2 pas in J+2	1.139 -> 942	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	aangevraagd:; anders 0	geen verhoging	via N-2
+> 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942			IVT volgt N-2	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 0		
+> 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	niet	geen verhoging	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 0	geen verhoging	
+> 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	daling <20%	wel	op aanvraag herrekend (binnen band)	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 0	binnen band	
+> 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	1.139 -> 942	1.139 -> 942	binnen band	aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	6.307 - 9.461	6.307 - 9.461	1.139 -> 942	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	1.139 -> 942	risico | binnen band	aangevraagd:; anders 0	onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0		aangevraagd:; anders 0	dode zone; o.b.v. J0	dode zone
+> 20.763	6.307 - 9.461	9.461 - 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	942 -> 0	risico	aangevraagd:; anders 0	onterecht hoog	dode zone; via N-2 + terugvordering J+1
+> 20.763	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	6.307 - 9.461	> 20.763	1.139 -> 942	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	1.139 -> 942	0	risico	aangevraagd:; anders 0	onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	9.461 - 20.763	< 6.307	942 -> 0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139		dode zone; aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	9.461 - 20.763	< 6.307	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in	dode zone; aangevraagd:; anders 0	dode zone; geen verhoging	via N-2
+> 20.763	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942		dode zone; aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	9.461 - 20.763	6.307 - 9.461	942 -> 0	daling	niet	geen verhoging; N-2 pas in J+2	942 -> 0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in	dode zone; aangevraagd:; anders 0	dode zone; geen verhoging	via N-2
+> 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0			IVT volgt N-2	942 -> 0	942 -> 0	binnen band	dode zone; aangevraagd:; anders 0	dode zone	dode zone
+> 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	niet	geen verhoging	942 -> 0	942 -> 0	binnen band	dode zone; aangevraagd:; anders 0	dode zone; geen verhoging	dode zone
+> 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	daling <20%	wel	op aanvraag herrekend (binnen band)	942 -> 0	942 -> 0	binnen band	dode zone; aangevraagd:; anders 0	dode zone; binnen band	dode zone
+> 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	942 -> 0	942 -> 0	binnen band	dode zone; aangevraagd:; anders 0	dode zone; o.b.v. J0	dode zone
+> 20.763	9.461 - 20.763	9.461 - 20.763	942 -> 0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	942 -> 0	risico | binnen band	dode zone; aangevraagd:; anders 0	dode zone; onterecht hoog	dode zone; via N-2 + terugvordering J+1
+> 20.763	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	WEL*	auto-herrekening 31/12	0	0		dode zone; aangevraagd:; anders 0	o.b.v. J0	
+> 20.763	9.461 - 20.763	> 20.763	942 -> 0	stijging (>=20%)	NIET*	geen herrekening nu; terugvordering + boete	942 -> 0	0	risico	dode zone; aangevraagd:; anders 0	dode zone; onterecht hoog	via N-2 + terugvordering J+1
+> 20.763	> 20.763	< 6.307	0	daling	wel	op aanvraag herrekend	1.402 -> 1.139	1.402 -> 1.139			o.b.v. J0	
+> 20.763	> 20.763	< 6.307	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.402 -> 1.139	J+2: N-2 haalt J0 alsnog in		geen verhoging	via N-2
+> 20.763	> 20.763	6.307 - 9.461	0	daling	wel	op aanvraag herrekend	1.139 -> 942	1.139 -> 942			o.b.v. J0	
+> 20.763	> 20.763	6.307 - 9.461	0	daling	niet	geen verhoging; N-2 pas in J+2	0	1.139 -> 942	J+2: N-2 haalt J0 alsnog in		geen verhoging	via N-2
+> 20.763	> 20.763	9.461 - 20.763	0	daling	wel	op aanvraag herrekend	942 -> 0	942 -> 0			dode zone; o.b.v. J0	dode zone
+> 20.763	> 20.763	9.461 - 20.763	0	daling	niet	geen verhoging; N-2 pas in J+2	0	942 -> 0	J+2: N-2 haalt J0 alsnog in		geen verhoging	dode zone; via N-2
+> 20.763	> 20.763	> 20.763	0			IVT volgt N-2	0	0	binnen band			
+> 20.763	> 20.763	> 20.763	0	daling <20%	niet	geen verhoging	0	0	binnen band		geen verhoging	
+> 20.763	> 20.763	> 20.763	0	daling <20%	wel	op aanvraag herrekend (binnen band)	0	0	binnen band		binnen band	
+> 20.763	> 20.763	> 20.763	0	stijging >=20% (binnen band)	WEL*	auto-herrekening 31/12	0	0	binnen band		o.b.v. J0	
+> 20.763	> 20.763	> 20.763	0	stijging >=20% (binnen band)	NIET*	geen herrekening nu; terugvordering + boete	0	0	risico | binnen band		onterecht hoog	via N-2 + terugvordering J+1

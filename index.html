@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IVT-systeem — tabellen</title>
+    <meta name="description" content="De IVT-scenariotabellen: gunstregeling, standaardregeling en tijdlijnen. De chatbot legt uit hoe je ze leest.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>IVT-systeem — tabellen</h1>
+        <p class="subtitle">Inkomensvervangende tegemoetkoming (IVT) en werken. Cijfers 2026. Lees de chatbot onderaan voor uitleg.</p>
+    </header>
+    <main>
+        <nav class="tabs" id="tabs"></nav>
+        <div class="filter-bar">
+            <input type="search" id="filter" placeholder="Filter rijen… (bv. 9.461, daling, double whammy)" aria-label="Filter tabelrijen">
+            <span class="muted" id="rowcount"></span>
+        </div>
+        <div id="table-area"></div>
+        <section class="card" id="chatbot">
+            <h2>Vraag de chatbot</h2>
+            <p>De chatbot hieronder legt uit hoe je de tabellen leest: wat de kolommen betekenen, wat de dode zone is, hoe de N−2-regel werkt, enzovoort.</p>
+            <div id="botpress-widget">
+                <p class="muted"><em>Chatbot verschijnt hier zodra de Botpress-embed is geactiveerd (zie README § Botpress integreren).</em></p>
+            </div>
+            <!-- Botpress Chatbot Scripts — vul BOT_ID.js in na aanmaken bot + upload kennisbank.
+                 Patroon (autiwiki): inject.js + een bot-specifiek bestand op files.bpcontent.cloud.
+            <script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js" defer></script>
+            <script src="https://files.bpcontent.cloud/JAAR/MAAND/DAG/UUR/<BOT_ID>.js" defer></script>
+            -->
+        </section>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
