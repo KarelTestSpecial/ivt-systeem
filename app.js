@@ -2,7 +2,7 @@ const TABLES = [
   {
     id: 'gunst',
     label: 'Gunstregeling',
-    desc: 'Eerste 24 maanden na werkhervatting (na ≥2 jaar inactiviteit). Arbeidsinkomen tot €27.060/jaar is 100% vrijgesteld.',
+    desc: 'Na ≥24 maanden inactiviteit: 3 volle gunst-kalenderjaren. Arbeidsinkomen tot €27.060/jaar is 100% vrijgesteld → de IVT blijft volledig (daarboven breekt de gunst).',
     file: 'data/ivt_schema_gunst.tsv'
   },
   {
@@ -14,7 +14,7 @@ const TABLES = [
   {
     id: 'tijdlijn-met',
     label: 'Tijdlijn (met gunst)',
-    desc: 'Overzicht J−2 tot J+2 met de gunstregeling. Toont waar de "double whammy" kan toeslaan.',
+    desc: 'Overzicht J−2 tot J+3: 3 gunstjaren (J0–J+2) + het eerste N−2-afrekenjaar (J+3). Toont waar de "double whammy" kan toeslaan.',
     file: 'data/ivt_tijdlijn_met_gunst.tsv'
   },
   {

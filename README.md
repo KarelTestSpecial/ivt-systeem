@@ -18,7 +18,7 @@ gen_ivt_schema.py  ─┐
 gen_ivt_timeline.py ─┘
 ```
 
-De TSV's worden gegenereerd door (in `~/INFO/voor-karel/werk-inkomen/`):
+De TSV's worden gegenereerd door (in `~/INFO/karel/werk-inkomen/`):
 - `gen_ivt_schema.py` → `ivt_schema_gunst.tsv` + `ivt_schema_standaard.tsv`
 - `gen_ivt_timeline.py` → `ivt_tijdlijn_met_gunst.tsv` + `ivt_tijdlijn_zonder_gunst.tsv`
 
@@ -30,7 +30,7 @@ De TSV's worden gegenereerd door (in `~/INFO/voor-karel/werk-inkomen/`):
 ./sync-data.sh
 ```
 
-Kopieert de vier TSV's van `~/INFO/voor-karel/werk-inkomen/` naar `data/`. Draai dit na elke wijziging aan de generators.
+Kopieert de vier TSV's van `~/INFO/karel/werk-inkomen/` naar `data/`. Draai dit na elke wijziging aan de generators.
 
 ## Lokaal bekijken
 
