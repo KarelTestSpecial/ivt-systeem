@@ -32,13 +32,15 @@ De tabellen op deze site werken steeds met **netto belastbaar inkomen per jaar**
 
 ## 3. De IVT-afbouwregels — twee regelingen
 
-### 3a. Gunstregeling (eerste 24 maanden na werkhervatting, na ≥2 jaar inactiviteit)
+### 3a. Gunstregeling (3 volle gunst-kalenderjaren na werkhervatting, na ≥24 maanden inactiviteit)
 
-Arbeidsinkomen is **100% vrijgesteld tot €27.060,23 netto belastbaar per jaar** → de IVT blijft volledig behouden. Dit is een "startbaan": in de eerste twee jaar mag je verdienen zonder dat je IVT daalt.
+Wie na minstens 24 maanden inactiviteit weer begint te werken, krijgt **3 volle gunst-kalenderjaren** (J0, J+1, J+2). In die jaren is arbeidsinkomen **100% vrijgesteld tot €27.060,23 netto belastbaar per jaar** → de IVT blijft volledig behouden. Dit is een "startbaan": drie jaar lang mag je verdienen zonder dat je IVT daalt.
 
-Boven €27.060/jaar tijdens de gunstregeling: de gunst vervalt (vermoedelijk voor het volledige inkomen — dit punt wordt nog bevestigd door de FOD).
+⚠️ **Belangrijk — de gunst is UITSTEL, geen kwijtschelding.** Het vrijgestelde gunstjaar-inkomen wordt niet definitief kwijtgescholden: vanaf het 4e jaar (J+3) wordt het alsnog via de N−2-regel (zie §4) afgerekend, met de gewone 50/75/100%-vrijstellingen. De gunst stelt de afbouw dus 3 jaar uit — ze laat ze niet verdwijnen.
 
-### 3b. Standaardregeling (vanaf maand 25)
+Boven €27.060/jaar tijdens een gunstjaar: de gunst **breekt** voor dat jaar → de standaardafbouw wordt toegepast op het volledige inkomen → de IVT valt naar €0 (want >€27.060 ligt boven het 100%-afbouwpunt van ±€20.763).
+
+### 3b. Standaardregeling (vanaf het 4e jaar / na de gunstperiode)
 
 De afbouw gebeurt op het **netto belastbare arbeidsinkomen per jaar**, in schijven:
 
@@ -67,33 +69,30 @@ De regel werkt dus **niet symmetrisch in je voordeel**: stijgingen worden snel e
 
 ---
 
-## 5. De "double whammy" — twee klokken die samen kunnen toeslaan
+## 5. De "double whammy" — uitstel dat later alsnog toeslaat
 
-De double whammy ontstaat doordat twee mechanismen met een paar jaar vertraging ±tegelijk kunnen toeslaan:
+De gunst voelt aan als "gratis verdienen", maar omdat ze **uitstel** is (zie §3a), komt het gunstjaar-inkomen 2 jaar later alsnog terug via de N−2-regel:
 
-| | Mechanisme A — Gunstregeling | Mechanisme B — N−2 refertejaar |
-|---|---|---|
-| Wat | Arbeidsinkomen 100% vrijgesteld tot €27.060/j | IVT-afbouw kijkt naar inkomen van 2 jaar terug |
-| Klok | **maanden** sinds werkstart (24 mnd) | **kalenderjaren** (aanslagjaar) |
-| Einde/inslag | vervalt na maand 24 | 2026-inkomen telt pas mee vanaf 2028 |
+- **Tijdens de 3 gunstjaren (J0, J+1, J+2):** arbeidsinkomen tot €27.060 vrijgesteld → volle IVT. Voelt gratis.
+- **Vanaf J+3:** de gewone N−2-afbouw slaat in op het gunstjaar-inkomen, met de standaard 50/75/100%-vrijstellingen. Wat je in J+1 verdiende, bepaalt je IVT in J+3; J+2 bepaalt J+4; enzovoort.
 
-Omdat beide klokken ±24 maanden uit elkaar liggen, vallen "einde gunst" en "N−2 slaat in" rond hetzelfde jaar samen. Op dat moment verlies je de vrijstelling **én** je eerdere (gunstjaar-)inkomen wordt nú pas verrekend = de double whammy.
+De **double whammy** ontstaat wanneer je in J+3 minder of niet werkt, maar je IVT dan tóch wordt gekort op het (hogere) gunstjaar-inkomen van 2 jaar eerder. Je verliest dan inkomen én IVT tegelijk.
 
 **Het scherpe inzicht:** de twee grenzen liggen NIET op elkaar:
 - Gunst-plafond: **€27.060** belastbaar/jaar (tot hier voelt verdienen "gratis" tijdens de gunst).
-- Punt waar N−2-inkomen je IVT cat. B volledig vernietigt: **±€20.763** belastbaar/jaar (einde dode zone).
+- Punt waar het N−2-inkomen je IVT cat. B volledig vernietigt: **±€20.763** belastbaar/jaar (einde dode zone).
 
-➡️ **Inkomen tussen €20.763 en €27.060 tijdens de gunst voelt gratis, maar wist 2 jaar later via N−2 je volledige IVT uit.** En door de N−2-vertraging achtervolgt een goed verdienjaar je 2 jaar later — ook als je dan minder of niet werkt.
+➡️ **Inkomen tussen €20.763 en €27.060 tijdens een gunstjaar voelt gratis, maar wist via N−2 (vanaf J+3) je volledige IVT uit** — ook als je dan minder of niet werkt.
 
 ### Ernst van de whammy, afhankelijk van het gunstjaar-inkomen
 
-| Inkomen in gunst (J0/J+1) | IVT 2 jaar later (J+2) bij terugval | Ernst |
+| Inkomen in een gunstjaar (J0/J+1/J+2) | IVT bij de N−2-afrekening (vanaf J+3) | Ernst |
 |---|---|---|
 | ≤ €6.307 | €1.402 → €1.139/maand | verwaarloosbaar |
 | €6.307 – €9.461 | €1.139 → €942/maand | mild — je houdt nog ~€942/maand |
 | €9.461 – €20.763 (dode zone) | €942 → €0/maand | zwaar — richting €0 |
 | €20.763 – €27.060 (strook) | €0/maand | totale wegval |
-| > €27.060 | €0/maand | totale wegval |
+| > €27.060 | gunst breekt al in het gunstjaar zelf → €0/maand | totale wegval |
 
 **De échte veilige grens is €9.461 (niet €20.763).** Wie beneden €9.461/jaar blijft, houdt zelfs bij een volledige terugval altijd nog ±€942/maand IVT.
 
@@ -106,35 +105,35 @@ Er zijn vier tabbladen. Hieronder wat elke tabel betekent en hoe je ze gebruikt.
 ### Tab 1 — Gunstregeling
 - **Kolommen:** J−2 inkomen · J−1 inkomen · J0 inkomen · J0 IVT · Richting J0 (vs J−1) · Melding · Afhandeling/gevolg · J+1 IVT · J+2 IVT · Opmerking.
 - **J0** = het huidige jaar (het jaar waarin je werkt). **J−1/J−2** = de refertejaren voor de IVT-berekening. **J+1/J+2** = de volgende jaren (waarin het J0-inkomen pas gaat meewegen via N−2).
-- **Inkomenswaarden** zijn banden (bv. `6.307 - 9.461` = netto belastbaar tussen €6.307 en €9.461/jaar). `< 6.307` = onder €6.307. `> 27.060` = boven €27.060.
+- **Inkomenswaarden** zijn banden (bv. `6.307 - 9.461` = netto belastbaar tussen €6.307 en €9.461/jaar). `< 6.307` = onder €6.307. `> 27.060` = boven €27.060 (gunst breekt → IVT 0).
 - **Hoe gebruiken:** zoek de rij waarbij J−2, J−1 en J0 inkomen overeenkomen met jouw situatie (of het traject dat je overweegt). De kolommen "J0 IVT", "J+1 IVT" en "J+2 IVT" tonen wat er met je IVT gebeurt in opeenvolgende jaren. De kolom "Opmerking" geeft context (bv. "binnen band", "dode zone").
 
 ### Tab 2 — Standaardregeling
-- Zelfde opzet, maar nu de afbouwregeling die geldt **vanaf maand 25** na werkhervatting.
+- Zelfde opzet, maar nu de afbouwregeling die geldt **na de gunstperiode** (vanaf het 4e jaar).
 - Heeft extra commentaar-kolommen ("Comm. J0 IVT", enz.) met toelichting per cel.
-- **Hoe gebruiken:** voor de periode ná de gunstregeling. Vergelijk met Tab 1 om te zien hoe je situatie verandert wanneer de gunst vervalt.
+- **Hoe gebruiken:** voor de periode ná de gunstregeling. Vergelijk met Tab 1 om te zien hoe je situatie verandert wanneer de gunst vervalt en de N−2-afrekening van het gunstjaar-inkomen toeslaat.
 
 ### Tab 3 — Tijdlijn (met gunst)
-- **Kolommen:** J−2 inkomen · J−1 inkomen · J0 inkomen · J+1 inkomen · J+2 inkomen · IVT J0 (gunst) · IVT J+1 (gunst) · IVT J+2 (std) · Double whammy (jaar).
-- Toont een volledig 5-jaarstraject (J−2 tot J+2) mét de gunstregeling in J0 en J+1, en de standaardregeling in J+2.
-- De kolom **"Double whammy (jaar)"** markeert in welk jaar de whammy toeslaat (als die toeslaat).
-- **Hoe gebruiken:** kies een traject (bv. "ik begin in J0 met werken op een bepaald niveau, en houd dat aan in J+1, en val misschien terug in J+2"). De tabel toont je IVT-verloop en of er een whammy dreigt. **Dit is de belangrijkste tabel om je eigen toekomstige traject op voorhand te checken — de whammy is 2 jaar op voorhand zichtbaar.**
+- **Kolommen:** J−2 inkomen · J−1 inkomen · J0 inkomen · J+1 inkomen · J+2 inkomen · J+3 inkomen · IVT J0 (gunst) · IVT J+1 (gunst) · IVT J+2 (gunst) · IVT J+3 (N−2 std) · Double whammy (jaar).
+- Toont een volledig traject (J−2 tot J+3): de **3 gunstjaren** (J0, J+1, J+2, telkens vrijgesteld tot €27.060) plus **J+3** = het eerste standaardjaar waarin de N−2-afrekening van het gunstjaar-inkomen toeslaat.
+- De kolom **"Double whammy (jaar)"** markeert wanneer de whammy toeslaat (typisch in J+3, als je dan minder verdient dan in het refertejaar J+1/J+2).
+- **Hoe gebruiken:** kies een traject (bv. "ik werk 3 jaar op een bepaald niveau en val daarna terug"). De tabel toont je IVT-verloop en of er een whammy dreigt. **Dit is de belangrijkste tabel om je eigen toekomstige traject op voorhand te checken — de whammy is jaren op voorhand zichtbaar.**
 
 ### Tab 4 — Tijdlijn (zonder gunst)
-- Dezelfde opzet als Tab 3, maar zonder de gunstregeling — toont de pure N−2-werking.
-- **Hoe gebruiken:** vergelijk met Tab 3 om te zien wat de gunstregeling je oplevert. Voor wie uit een "€0-refertejaar" komt (J−2/J−1 = €0), valt het verschil mee — de gunst voegt dan vooral tijd toe.
+- Zelfde idee als Tab 3 maar zonder de gunstregeling (horizon J−2 tot J+2) — toont de pure N−2-werking vanaf het eerste jaar.
+- **Hoe gebruiken:** vergelijk met Tab 3 om te zien wat de gunstregeling je oplevert. Voor wie uit een "€0-refertejaar" komt (J−2/J−1 = €0), valt het verschil mee — de gunst voegt dan vooral tijd toe (3 jaar uitstel).
 
 ---
 
 ## 7. Veilige vs. gevaarlijke zones — samenvatting
 
-| Zone (netto belastbaar/jaar) | Tijdens gunst | 2 jaar later (standaard/N−2) |
+| Zone (netto belastbaar/jaar) | Tijdens de 3 gunstjaren | Bij de N−2-afrekening (vanaf J+3) |
 |---|---|---|
 | ≤ €6.307 | IVT volledig (gunst) | IVT −50% afbouw; je houdt ±€1.139/maand |
 | €6.307 – €9.461 | IVT volledig (gunst) | IVT −75% afbouw; je houdt ±€942/maand |
 | €9.461 – €20.763 (dode zone) | IVT volledig (gunst) | IVT naar €0; je vorige inkomen slaat 2 jaar later toe |
 | €20.763 – €27.060 (strook) | IVT volledig (gunst) — voelt gratis | IVT = €0; **maximale whammy** |
-| > €27.060 | Gunst vervalt | IVT = €0 |
+| > €27.060 | gunst breekt al in het gunstjaar zelf | IVT = €0 |
 
 **Twee veilige strategieën na de gunstperiode:**
 1. **Gedoseerd blijven ≤ €9.461/jaar** — je houdt altijd een IVT-vangnet (±€942/maand), zelfs bij terugval.
@@ -156,43 +155,46 @@ Vrijwilligersvergoeding tot **€35,41/dag** en **€1.416,16/jaar** (forfait 20
 A: De strook netto belastbaar inkomen tussen €9.461 en €20.763 per jaar. In deze strook wordt elke extra verdiende euro volledig afgetrokken van de IVT — je werkt voor de IVT "voor niets". Pas boven €20.763 herstelt je totaalinkomen, omdat de IVT dan op €0 staat en je alles zelf houdt.
 
 **V: Wat is de double whammy?**
-A: Het samenvallen van "einde gunstregeling" en "N−2-inkomen slaat in" rond hetzelfde jaar. Je verliest dan de vrijstelling én je (hoge) inkomen van 2 jaar terug wordt nu verrekend → je IVT kan naar €0 vallen. Het risico is het grootst als je in het schaduwjaar zelf minder of niet werkt.
+A: De gunst is uitstel, geen kwijtschelding. Tijdens de 3 gunstjaren is je inkomen vrijgesteld (volle IVT), maar vanaf het 4e jaar (J+3) wordt dat gunstjaar-inkomen alsnog via de N−2-regel afgerekend. Als je dan minder of niet werkt, wordt je IVT gekort op het hogere inkomen van 2 jaar terug → je verliest inkomen én IVT tegelijk. Dat is de double whammy.
 
 **V: Loont deeltijds werken?**
-A: Ja, zolang je onder €9.461 netto belastbaar/jaar blijft, houdt je per extra euro ±50 cent over en blijft er een IVT-vangnet. Binnen de dode zone (€9.461–€20.763) loont méér werken niet. Boven €20.763 loont het weer.
+A: Ja, zolang je onder €9.461 netto belastbaar/jaar blijft, houd je per extra euro ±50 cent over en blijft er een IVT-vangnet. Binnen de dode zone (€9.461–€20.763) loont méér werken niet. Boven €20.763 loont het weer.
 
 **V: Hoe snel herstelt mijn IVT na een inkomensval?**
-A: Dit is op dit moment nog niet volledig bevestigd. Dalingen worden niet automatisch verrekend en enkel op eigen aanvraag — en de FOD stelt dat "een daling niet meteen een hogere tegemoetkoming" geeft. Reken op een mogelijk gat tussen je inkomensval en het IVT-herstel. Vraag bij een daling zo snel mogelijk een herziening aan.
+A: Niet automatisch en niet snel. Dalingen worden enkel op eigen aanvraag verrekend — en de FOD stelt dat "een daling niet meteen een hogere tegemoetkoming" geeft. Door de N−2-vertraging loopt het herstel bovendien achter. Reken op een gat tussen je inkomensval en het IVT-herstel, en vraag bij een daling zo snel mogelijk een herziening aan.
 
 **V: Hoe wordt mijn IVT berekend?**
 A: Op je belastbaar inkomen van 2 jaar terug (N−2). Verdien je in 2026 €15.000, dan telt dat pas mee in 2028. Kom je uit een periode zonder inkomen (€0-refertejaar), dan krijg je de volledige IVT — ook zonder de gunstregeling.
 
 **V: Wat is het verschil tussen de gunstregeling en de standaardregeling?**
-A: De gunstregeling geldt de eerste 24 maanden na werkhervatting (na ≥2 jaar inactiviteit) en maakt arbeidsinkomen tot €27.060/jaar 100% vrijgesteld — je IVT blijft volledig. Daarna geldt de standaardregeling met de 50%/75%/100%-afbouwschijven.
+A: De gunstregeling geldt voor **3 volle kalenderjaren** na werkhervatting (na ≥24 maanden inactiviteit) en maakt arbeidsinkomen tot €27.060/jaar 100% vrijgesteld — je IVT blijft volledig. Let op: het is uitstel, geen kwijtschelding — vanaf het 4e jaar geldt de standaardregeling met de 50%/75%/100%-afbouwschijven, en wordt je gunstjaar-inkomen alsnog via N−2 afgerekend.
 
 **V: Moet ik mijn werk melden?**
 A: Ja. Bij de start van tewerkstelling is er een meldingsplicht (dit triggert géén medisch onderzoek). Bij een stijging van je inkomen met ≥20% ben je verplicht dit binnen 3 maanden te melden — herberekening volgt op 31 december. Bij een daling van ≥20% is er geen automatische meldingsplicht, maar kun je zelf een herziening aanvragen.
 
 **V: Welke tabel moet ik gebruiken?**
-A: In de eerste 24 maanden na werkhervatting: de tabbladen "Gunstregeling" en "Tijdlijn (met gunst)". Daarna: "Standaardregeling" en "Tijdlijn (zonder gunst)". Wil je je hele traject (J−2 tot J+2) overzien, inclusief een mogelijke whammy? Gebruik dan de tijdlijn-tabbladen.
+A: Tijdens de 3 gunstjaren na werkhervatting: de tabbladen "Gunstregeling" en "Tijdlijn (met gunst)". Daarna: "Standaardregeling" en "Tijdlijn (zonder gunst)". Wil je je hele traject (J−2 tot J+3) overzien, inclusief een mogelijke whammy? Gebruik dan de tijdlijn-tabbladen.
 
-**V: Wat betekenen J−2, J−1, J0, J+1, J+2?**
-A: J0 is het jaar waarop je focust (meestal het jaar waarin je werkt). J−1 en J−2 zijn de refertejaren (waarop je IVT in J0 wordt berekend). J+1 en J+2 zijn de volgende jaren, waarin het J0-inkomen pas via N−2 gaat meewegen.
+**V: Wat betekenen J−2, J−1, J0, J+1, J+2, J+3?**
+A: J0 is het jaar waarop je focust (meestal het eerste werkjaar). J−1 en J−2 zijn de refertejaren (waarop je IVT in J0 wordt berekend). J0, J+1 en J+2 zijn de 3 gunstjaren. J+3 is het eerste standaardjaar, waarin het gunstjaar-inkomen via N−2 wordt afgerekend.
 
 **V: Zijn de bedragen bruto of netto?**
 A: In de tabellen gaat het steeds om **netto belastbaar** inkomen per jaar, tenzij anders aangegeven. "Netto belastbaar" = bruto − beroepskosten − sociale bijdragen (zelfstandig) of bruto − RSZ − forfait (loondienst). De IVT-zelf is onbelast (bruto = netto).
 
 ---
 
-## 10. Belangrijke nuance — nog te bevestigen punten
+## 10. Belangrijke nuance — wat de FOD bevestigde (juni 2026)
 
-Sommige details zijn op het moment van samenstellen (juni 2026) nog niet volledig bevestigd door de FOD Sociale Zaken:
-- Het exacte startmoment van de 24-maanden-gunstklok (op de eerste werkdag, of pas op de eerste dag dat de IVT effectief loopt).
-- De interactie tussen de 31-december-herberekening (≥20%-regel) en de 24-maanden-gunstregeling — kan er een gat of overlap ontstaan?
-- Wat gebeurt er boven €27.060 tijdens de gunst — vervalt de gunst enkel voor het excedent of voor het volledige inkomen?
-- Het exacte hersteltempo van de IVT na een inkomensval (FOD-vraag 6).
+Het FOD-antwoord (juni 2026) heeft enkele eerder open punten beslecht:
+- ✅ De gunst is **UITSTEL, geen kwijtschelding**: er zijn **3 volle gunst-kalenderjaren**, daarna wordt het gunstjaar-inkomen alsnog via N−2 afgerekend met de gewone vrijstellingen.
+- ✅ Boven €27.060 tijdens een gunstjaar **breekt de gunst** en geldt de standaardafbouw op het volledige inkomen (IVT → €0).
+- ✅ De ≥20%-regel werkt **asymmetrisch**: stijgingen verplicht + snel (31-december-herberekening), dalingen enkel op eigen aanvraag en niet automatisch.
 
-Wanneer de bezoeker hier vragen over heeft, adviseer de bot om dit te verifiëren via [handicap.belgium.be](https://handicap.belgium.be) of rechtstreeks bij de FOD Sociale Zaken (DG HAN). De tabellen markeren deze onzekere cellen met "FOD" of een opmerking.
+Nog niet tot in detail vastgelegd:
+- Het exacte hersteltempo van de IVT na een inkomensval (dalingen volgen het trage N−2-spoor; reken op een gat).
+- De precieze uitkomst wanneer de werkstart en de start van de IVT-uitkering in verschillende kalenderjaren vallen (dan kan het aantal volle gunstjaren afwijken).
+
+Adviseer de bezoeker om individuele details te verifiëren via [handicap.belgium.be](https://handicap.belgium.be) of rechtstreeks bij de FOD Sociale Zaken (DG HAN).
 
 ---
 
